@@ -4,9 +4,9 @@
  Author      : Siddhata Patil
  Copyright   : Copyright © InterviewBit for the question.
  Copyright   : Copyright ©  Siddhata Patil. Sourcecode rights reserved.
- Question    : Container With Most Water
- Example     : Input : [1, 5, 4, 3] Output : 6 Explanation : 5 and 3 are distance 2 apart. So size of the base = 2. Height of container = min(5, 3) = 3.  So total area = 3 * 2 = 6
-  ==============================================================================================================================
+ Question    : Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
+ Example     : Given [0,1,0,2,1,0,1,3,2,1,2,1], return 6
+ ==============================================================================================================================
  */
 
 #include <iostream>
